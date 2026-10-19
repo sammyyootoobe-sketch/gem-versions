@@ -1,0 +1,9 @@
+{
+  "message": "",
+  "latest": "6.2.1",
+  "offBelow": "",
+  "versions": {
+    "6.2.0": true,
+    "6.2.1": true
+  }
+}
